@@ -6,4 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "polars>=1.36.1",
+    "pyodbc>=5.3.0",
+    "sqlalchemy>=2.0.45",
+    "toml>=0.10.2",
+    "xlsx2csv>=0.8.4",
+    "xlsxwriter>=3.2.9",
 ]
